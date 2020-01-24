@@ -12,11 +12,16 @@
   "profession_police": "Police",
   "profession_securityguard": "Security guard",
 
+  "error_no_internet": "No Internet connection",
+  "error_get_content": "Unable to get content",
+  "error_update_content": "Unable to get updated content",
 
   "----- Sektioner (rubriker/titlar) -----": "",
+  "home_title": "Hem",
   "symptom_title": "Symptom och beteende",
   "good_to_know_title": "Bra att känna till",
   "missing_person_title": "Försvunnen person",
+  "detect_dementia": "Upptäcka demenssjukdom",
   "about_title": "About",
 
 
