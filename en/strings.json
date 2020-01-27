@@ -16,6 +16,9 @@
   "error_get_content": "Unable to get content",
   "error_update_content": "Unable to get updated content",
 
+  "cleared_cache": "Cleared local cache.",
+
+
   "----- Sektioner (rubriker/titlar) -----": "",
   "home_title": "Hem",
   "symptom_title": "Symptom och beteende",

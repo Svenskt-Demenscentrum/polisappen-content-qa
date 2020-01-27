@@ -16,6 +16,8 @@
   "error_get_content": "Kunde inte hämta innehåll",
   "error_update_content": "Kunde inte hämta uppdaterad innehåll",
 
+  "cleared_cache": "Lokal cache rensad.",
+
 
   "----- Sektioner (rubriker/titlar) -----": "",
   "home_title": "Hem",
