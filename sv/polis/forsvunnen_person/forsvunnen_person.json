@@ -1,4 +1,4 @@
 [
-  { "key": "fallbeskrivning1", "title": "fallbeskrivning 1", "image": "/alla/forsvunnen_person/situation1.jpg" },
-  { "key": "fallbeskrivning2", "title": "fallbeskrivning 2" }
+  { "key": "situation1", "title": "Fallbeskrivning 1", "image": "/alla/forsvunnen_person/situation1.jpg" },
+  { "key": "situation2", "title": "Fallbeskrivning 2" }
 ]
