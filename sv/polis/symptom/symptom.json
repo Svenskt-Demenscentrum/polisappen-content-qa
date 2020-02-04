@@ -1,7 +1,7 @@
 [
   { "key": "apatisk", "title": "Apatisk", "image": "/alla/symptom/P-bild1.jpg" },
-  { "key": "arg", "title": "Arg och upprörd", "image": "/alla/symptom/P-bild1.jpg" },
-  { "key": "doljerdemenssjukdom", "title": "Döljer demenssjukdomen", "image": "/alla/symptom/P-bild2.jpg" },
+  { "key": "arg", "title": "Arg och upprörd", "image": "/alla/symptom/P-bild2.jpg" },
+  { "key": "doljerdemenssjukdom", "title": "Döljer demenssjukdomen", "image": "/alla/symptom/P-bild3.jpg" },
   { "key": "forsvunnen", "title": "Försvunnen person", "image": "/alla/symptom/P-bild4.jpg" },
   { "key": "forvirring", "title": "Förvirring", "image": "/alla/symptom/P-bild3.jpg" },
   { "key": "hallucinationer", "title": "Hallucinationer", "image": "/alla/symptom/P-bild3.jpg" },
