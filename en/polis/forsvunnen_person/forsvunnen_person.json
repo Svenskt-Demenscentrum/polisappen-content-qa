@@ -1,4 +1,4 @@
 [
-  { "key": "situation1", "title": "Situation 1", "image": "/alla/forsvunnen_person/situation1.jpg" },
-  { "key": "situation2", "title": "Situation 2" }
+  { "key": "situation1", "title": "Situation 1", "image": "/alla/forsvunnen_person/situation1.jpg"},
+  { "key": "situation2", "title": "Situation 2", "image": "/alla/forsvunnen_person/situation2.jpg" }
 ]
