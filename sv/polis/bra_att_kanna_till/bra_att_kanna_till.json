@@ -3,5 +3,5 @@
   { "key": "var_uppmarksam_pa", "row":  1, "title": "Var uppmärksam på", "image": "/alla/bra_att_kanna_till/var_uppmarksam_pa.jpg" },
   { "key": "fakta_om_demens", "row":  2, "title": "Fakta om demens", "image": "/alla/bra_att_kanna_till/fakta-om-demens.jpg" },
   { "key": "tips_pa_bemotande", "row":  3, "title": "Tips på bemötande", "image": "/alla/bra_att_kanna_till/tips_pa_bemotande.jpg" },
-  { "key": "stodfunktioner", "row":  3, "title": "Stödfunktioner", "image": "/alla/bra_att_kanna_till/stodfunktioner1.jpg" }
+  { "key": "stodfunktioner", "row":  3, "title": "", "image": "/alla/bra_att_kanna_till/stodfunktioner1.jpg" }
 ]
