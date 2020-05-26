@@ -12,7 +12,7 @@
   "profession_police": "Polis",
   "profession_securityguard": "Ordningsvakt",
 
-  "error_no_internet": "Ingen internetuppkoppling",
+  "error_no_internet": "Fel vid hämtning av innehåll (kunde inte kontakta server)",
   "error_get_content": "Kunde inte hämta innehåll",
   "error_update_content": "Kunde inte hämta uppdaterad innehåll",
 
@@ -37,7 +37,7 @@
 
 
   "----- Sektion: Mer/Om -----": "",
-  "more_about_heading": "",
+  "more_about_heading": "Om",
   "more_about_sdc": "Om Svenskt Demenscentrum",
   "more_about_app": "Om appen",
   "more_contact_us_heading": "Kontakt",

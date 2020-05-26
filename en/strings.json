@@ -12,7 +12,7 @@
   "profession_police": "Police",
   "profession_securityguard": "Security guard",
 
-  "error_no_internet": "No Internet connection",
+  "error_no_internet": "Error getting content (unable to reach server)",
   "error_get_content": "Unable to get content",
   "error_update_content": "Unable to get updated content",
 
