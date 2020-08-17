@@ -37,7 +37,7 @@
 
 
   "----- Sektion: Mer/Om -----": "",
-  "more_about_heading": "About",
+  "more_about_heading": "",
   "more_about_sdc": "About Swedish Dementia Centre",
   "more_about_app": "About the application",
   "more_contact_us_heading": "Contact",
@@ -45,5 +45,5 @@
   "more_switch_profession_heading": "Annan yrkesgrupp?",
   "more_switch_profession": "Switch profession",
   "about_version": "Version",
-  "about_open_link_error": "Unable to open link.\\nPlease open a browser and visit http://demenscentrum.se/"
+  "about_open_link_error": "Unable to open link.\\nPlease open a browser and visit https://www.demenscentrum.se/"
 }
