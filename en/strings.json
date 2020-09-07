@@ -25,7 +25,7 @@
   "good_to_know_title": "Good to know",
   "missing_person_title": "Missing person",
   "detect_dementia": "Detecting dementia",
-  "about_title": "",
+  "more_title": "More",
 
 
   "----- Specifikt för: Polis -----": "",
@@ -37,7 +37,7 @@
 
 
   "----- Sektion: Mer/Om -----": "",
-  "more_about_heading": "",
+  "more_about_heading": "About",
   "more_about_sdc": "About Swedish Dementia Centre",
   "more_about_app": "About the application",
   "more_contact_us_heading": "Contact",
