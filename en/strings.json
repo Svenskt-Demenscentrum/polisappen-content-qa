@@ -19,6 +19,15 @@
   "cleared_cache": "Cleared local cache.",
 
 
+  "----- Tab titlar -----": "",
+  "tab_home_title": "Home",
+  "tab_symptom_title": "Symptoms",
+  "tab_good_to_know_title": "Good to know",
+  "tab_missing_person_title": "Missing",
+  "tab_detect_dementia": "Detecting",
+  "tab_more_title": "More",
+  
+
   "----- Sektioner (rubriker/titlar) -----": "",
   "home_title": "Home",
   "symptom_title": "Symptoms and behaviour",
@@ -43,7 +52,7 @@
   "more_contact_us_heading": "Contact",
   "more_contact_us": "Contact us",
   "more_contact_us_link": "https://www.demenscentrum.se/kontakt",
-  "more_switch_profession_heading": "Annan yrkesgrupp?",
+  "more_switch_profession_heading": "Another profession?",
   "more_switch_profession": "Switch profession",
   "about_version": "Version",
   "about_open_link_error": "Unable to open link.\\nPlease open a browser and visit https://www.demenscentrum.se/"
