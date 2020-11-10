@@ -1,5 +1,6 @@
 {
   "----- Allmänt -----": "",
+  "select_profession": "Choose profession",
   "back": "Back",
   "text_not_found": "Unable to find text",
 
@@ -22,7 +23,7 @@
   "----- Tab titlar -----": "",
   "tab_home_title": "Home",
   "tab_symptom_title": "Symptoms",
-  "tab_good_to_know_title": "Good to know",
+  "tab_good_to_know_title": "Tips",
   "tab_missing_person_title": "Missing",
   "tab_detect_dementia": "Detecting",
   "tab_more_title": "More",

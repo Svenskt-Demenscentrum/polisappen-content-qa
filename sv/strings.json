@@ -1,5 +1,6 @@
 {
   "----- Allmänt -----": "",
+  "select_profession": "Välj yrke",
   "back": "Tillbaka",
   "text_not_found": "Kunde inte hitta text",
 
@@ -22,7 +23,7 @@
   "----- Tab titlar -----": "",
   "tab_home_title": "Hem",
   "tab_symptom_title": "Symptom",
-  "tab_good_to_know_title": "Bra att",
+  "tab_good_to_know_title": "Tips",
   "tab_missing_person_title": "Försvunnen",
   "tab_detect_dementia": "Upptäcka",
   "tab_more_title": "Mer",
